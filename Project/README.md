@@ -1,5 +1,6 @@
 CS685 - Data Mining Project
 Group - 4
+Members - Shivam Tulsyan(180723), Jayant Gangwar(180327), Parth Somani(180503)
 
 Problem Statement - Cleaning, Preprocessing and Exploring DATA for Safe driver prediction
 
